@@ -6,4 +6,4 @@
 
 ---
 
-![Image](/assets/react-api.jpg)
+![Image](/image/hesap-makinasi-ekran-goruntusu.png)
