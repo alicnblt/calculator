@@ -1,4 +1,4 @@
-# Hesap Makinası.
+# Hesap Makinası
 
 ---
 
